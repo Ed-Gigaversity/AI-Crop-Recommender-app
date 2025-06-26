@@ -41,8 +41,41 @@ In this project, I'm going to show how to use data science and machine learning 
 ## Installation
 The application is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository :-
 
+## Create a virtual environment
+```
+python -m venv venv
+```
+## Activate the virtual environment on windows
+```
+.\venv\Scripts\activate
+```
+## Install dependencies (if any)
 ```
 pip install -r requirements.txt
+```
+```
+python app.py
+```
+Add virtual environment to git ignore
+```
+git add .
+```
+```
+git commit -m "first commit"
+```
+```
+git branch -M main
+```
+```
+git remote add origin https://github.com/your repo.git
+```
+## Check the remote origin 
+```
+git remote -v
+```
+## Push
+```
+git push -u origin main
 ```
 ## Languages Used
 * [Python](https://www.python.org/)
