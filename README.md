@@ -56,7 +56,7 @@ pip install -r requirements.txt
 ```
 python app.py
 ```
-Add virtual environment to git ignore
+Add virtual environment to git ignore  in the file explorer then type
 ```
 git add .
 ```
