@@ -40,7 +40,14 @@ In this project, I'm going to show how to use data science and machine learning 
  
 ## Installation
 The application is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after cloning the repository :-
-
+## Clone
+```
+git clone https://github.com/Ed-Gigaversity/AI-Crop-Recommender-app
+```
+## Change directory
+```
+cd AI-Crop-Recommender-app
+```
 ## Create a virtual environment
 ```
 python -m venv venv
@@ -77,12 +84,10 @@ git remote -v
 ```
 git push -u origin main
 ```
-## Languages Used
+## Credits
 * [Python](https://www.python.org/)
-  * [PyCharm](https://www.jetbrains.com/pycharm/)
-  * [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
-  
+* [PyCharm](https://www.jetbrains.com/pycharm/)
+* [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb)
 * HTML & CSS 
-
 * [Flask Web Framework](https://flask.palletsprojects.com/en/1.1.x/)
 
